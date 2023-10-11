@@ -1,4 +1,4 @@
-# kickstart.nvim
+# Mind your own business
 
 
 ### Introduction
